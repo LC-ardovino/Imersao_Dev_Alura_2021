@@ -1,0 +1,17 @@
+<p> = Esse comando e usado quando se deseja criar um paragrafo.
+
+<h> = Esse comando e usado para criar um titulo
+
+<div> = A tag <div> define uma divisão ou uma seção em um documento HTML.
+
+        A tag <div> é usada como um contêiner para elementos HTML - que são estilizados com CSS ou manipulados com JavaScript.
+
+        A tag <div> é facilmente estilizada usando o atributo class ou id.
+
+        Qualquer tipo de conteúdo pode ser colocado dentro da tag <div>!
+
+        Nota: Por padrão, os navegadores sempre colocam uma quebra de linha antes e depois do elemento <div>.
+
+<img = O elemento HTML <img>  (or HTML Image Element) representa a inserção de imagem no documento, sendo implementado também pelo HTML5 para uma melhor experiência com o elemento <figure> e <figcaption>.
+
+<a> = O elemento <a> em HTML (ou elemento âncora), com o atributo href cria-se um hiperligação nas páginas web, arquivos, endereços de emails, ligações na mesma página ou endereços na URL. O conteúdo dentro de cada <a> precisará indicar o destino do link.
